@@ -14,7 +14,7 @@ Aqui no meu GitHub, vai encontrar alguns projetos meus da faculdade e outros pro
 
 <div>
 <a href = "mailto:stefanikaline15@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/stefanikaline">
+<a href="https://www.linkedin.com/in/stefanikdias">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
