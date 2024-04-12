@@ -14,6 +14,6 @@ Aqui no meu GitHub, vai encontrar alguns projetos meus da faculdade e outros pro
 
 <div>
 <a href = "mailto:stefanikaline15@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stefanikaline15&theme=radical)](https://github.com/stefanikaline15/github-readme-stats)
+<a href="https://medium.com/@skaline" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
