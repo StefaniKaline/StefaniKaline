@@ -1,7 +1,7 @@
 # Olá, me chamo Stefani Kaline! 
 ## Seja bem vindo ao meu perfil GitHub 🤟
 
-Sou bacharela em Sistemas de Informação pela UFV (CRP), Engenheira de Dados e uma grande amante de gatos (estou falando sério, eu tenho muito gatos 🐱). 
+Sou bacharela em Sistemas de Informação pela UFV (CRP), Engenheira de Dados e uma grande amante de gatos (estou falando sério, eu tenho muitos gatos 🐱). 
 Aqui no meu GitHub, vai encontrar alguns projetos meus da faculdade e outros projetos pessoais, onde demonstro minhas habilidades mais voltadas a área de dados.
 
 <div>
