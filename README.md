@@ -6,11 +6,6 @@ Aqui você encontra alguns dos meus projetos, mas meu portfólio completo está 
 
 ---
 
-## 🌐 Meu Portfólio  
-👉 [stefanikaline.github.io/stefani-portfolio](https://stefanikaline.github.io/stefani-portfolio/)  
-
----
-
 ## 📌 Sobre mim  
 - Engenheira de Dados com experiência em **Python, SQL, GCP, BigQuery, Airflow**  
 - Certificada **Google Cloud Associate Cloud Engineer**  
